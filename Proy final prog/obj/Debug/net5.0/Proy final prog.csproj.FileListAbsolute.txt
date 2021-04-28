@@ -1,0 +1,16 @@
+C:\Users\Belkis Bueno\Documents\Proy final prog\obj\Debug\net5.0\Proy final prog.csprojAssemblyReference.cache
+C:\Users\Belkis Bueno\Documents\Proy final prog\obj\Debug\net5.0\Proy final prog.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Belkis Bueno\Documents\Proy final prog\obj\Debug\net5.0\Proy final prog.AssemblyInfoInputs.cache
+C:\Users\Belkis Bueno\Documents\Proy final prog\obj\Debug\net5.0\Proy final prog.AssemblyInfo.cs
+C:\Users\Belkis Bueno\Documents\Proy final prog\obj\Debug\net5.0\Proy final prog.csproj.CoreCompileInputs.cache
+C:\Users\Belkis Bueno\Documents\Proy final prog\bin\Debug\net5.0\Proy final prog.exe
+C:\Users\Belkis Bueno\Documents\Proy final prog\bin\Debug\net5.0\Proy final prog.deps.json
+C:\Users\Belkis Bueno\Documents\Proy final prog\bin\Debug\net5.0\Proy final prog.runtimeconfig.json
+C:\Users\Belkis Bueno\Documents\Proy final prog\bin\Debug\net5.0\Proy final prog.runtimeconfig.dev.json
+C:\Users\Belkis Bueno\Documents\Proy final prog\bin\Debug\net5.0\Proy final prog.dll
+C:\Users\Belkis Bueno\Documents\Proy final prog\bin\Debug\net5.0\ref\Proy final prog.dll
+C:\Users\Belkis Bueno\Documents\Proy final prog\bin\Debug\net5.0\Proy final prog.pdb
+C:\Users\Belkis Bueno\Documents\Proy final prog\obj\Debug\net5.0\Proy final prog.dll
+C:\Users\Belkis Bueno\Documents\Proy final prog\obj\Debug\net5.0\ref\Proy final prog.dll
+C:\Users\Belkis Bueno\Documents\Proy final prog\obj\Debug\net5.0\Proy final prog.pdb
+C:\Users\Belkis Bueno\Documents\Proy final prog\obj\Debug\net5.0\Proy final prog.genruntimeconfig.cache
